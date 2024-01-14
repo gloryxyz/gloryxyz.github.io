@@ -1,0 +1,150 @@
+/*
+	@name tv___1
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1280px; width: 1280px; height: 610px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__tv___1 {
+	top: 0px;
+	left: 0px;
+	width: 1280px;
+	height: 610px;
+	background:#;
+	background: -webkit-linear-gradient(-180deg , rgba(32.94,25.39,25.39,1) 0%, rgba(8.57,6.61,6.61,0.60424429178238) 100%, rgba(3.05,2.35,2.35,0.51455587148666) 100%, rgba(1.15,0.89,0.89,0.48367336392403) 100%, rgba(0,0,0,0.46500000357628) 100%, rgba(32.94,25.39,25.39,0) 100%);
+	background: -o-linear-gradient(-180deg , rgba(32.94,25.39,25.39,1) 0%, rgba(8.57,6.61,6.61,0.60424429178238) 100%, rgba(3.05,2.35,2.35,0.51455587148666) 100%, rgba(1.15,0.89,0.89,0.48367336392403) 100%, rgba(0,0,0,0.46500000357628) 100%, rgba(32.94,25.39,25.39,0) 100%);
+	background: -moz-linear-gradient(-180deg , rgba(32.94,25.39,25.39,1) 0%, rgba(8.57,6.61,6.61,0.60424429178238) 100%, rgba(3.05,2.35,2.35,0.51455587148666) 100%, rgba(1.15,0.89,0.89,0.48367336392403) 100%, rgba(0,0,0,0.46500000357628) 100%, rgba(32.94,25.39,25.39,0) 100%);
+	background: -ms-linear-gradient(-180deg , rgba(32.94,25.39,25.39,1) 0%, rgba(8.57,6.61,6.61,0.60424429178238) 100%, rgba(3.05,2.35,2.35,0.51455587148666) 100%, rgba(1.15,0.89,0.89,0.48367336392403) 100%, rgba(0,0,0,0.46500000357628) 100%, rgba(32.94,25.39,25.39,0) 100%);
+	background: linear-gradient(-180deg , rgba(32.94,25.39,25.39,1) 0%, rgba(8.57,6.61,6.61,0.60424429178238) 100%, rgba(3.05,2.35,2.35,0.51455587148666) 100%, rgba(1.15,0.89,0.89,0.48367336392403) 100%, rgba(0,0,0,0.46500000357628) 100%, rgba(32.94,25.39,25.39,0) 100%);
+}
+
+
+#rectangle_1 {
+	top: 45px;
+	left: 0px;
+	width: 1280px;
+	height: 11px;
+	
+	-ms-transform:rotate(180deg);
+	-o-transform:rotate(180deg);
+	-webkit-transform:rotate(180deg);
+	-moz-transform:rotate(180deg);
+	transform:rotate(180deg);
+	background:rgba(104.12,97.62,97.62,1);
+}
+
+
+#glory {
+	top: 112px;
+	left: 455px;
+	width: 185px;
+	height: 84.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 65px;
+	font-weight: bold;
+	text-align: center;
+	-ms-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-o-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-webkit-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-moz-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	color:#FFFFFF;
+}
+
+
+#beta {
+	top: 112px;
+	left: 645px;
+	width: 182px;
+	height: 84.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 65px;
+	font-weight: bold;
+	text-align: center;
+	-webkit-text-stroke-width: px;
+	-webkit-text-stroke-color: #;
+	background-image: linear-gradient(-131.08692845056deg , rgba(248.63,146.07,238.37,1) 0%, rgba(254.62,214.02,250.56,0.36) 89%, rgba(254.87,241.41,253.53,0.12) 100%, rgba(255,255,255,0) 100%, rgba(255,0,229.5,0) 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	-ms-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-o-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-webkit-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-moz-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	color:#000000;
+}
+
+
+#_glory_1 {
+	top: 218px;
+	left: 292px;
+	width: 696px;
+	height: 365px;
+}
+
+
+#rectangle_2 {
+	top: 222px;
+	left: 301px;
+	width: 196px;
+	height: 27px;
+	background:rgba(35,35,35,1);
+}
+
+
+#glory_beta {
+	top: 222px;
+	left: 298px;
+	width: 201.2px;
+	height: 36.2px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 22px;
+	font-weight: bold;
+	line-height: 31.2px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#home {
+	top: 0px;
+	left: 445px;
+	width: 133.2px;
+	height: 62.2px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 22px;
+	font-weight: bold;
+	line-height: 57.2px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#_pricing {
+	top: 0px;
+	left: 701px;
+	width: 133.2px;
+	height: 62.2px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 22px;
+	font-weight: bold;
+	line-height: 57.2px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+
+/* Add your custom CSS here */
